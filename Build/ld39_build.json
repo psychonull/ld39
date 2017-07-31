@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ld39_build.data.unityweb",
+"asmCodeUrl": "ld39_build.asm.code.unityweb",
+"asmMemoryUrl": "ld39_build.asm.memory.unityweb",
+"asmFrameworkUrl": "ld39_build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
